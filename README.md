@@ -1,2 +1,2 @@
-# RandomPythonScripts
-Aprendiendo python aqui ire subiendo diferentes scripts para ir practicando
+# RandomScripts
+Aqui ire subiendo diferentes scripts random para automatizar pequenas cosas.
